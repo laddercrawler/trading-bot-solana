@@ -158,7 +158,6 @@ So now you can run `compare_listeners.py` to see which one is faster.
 
 # Pump.fun bot development roadmap (March - April 2025, mostly completed)
 
-As of April 30, 2025, all changes from **refactored/main-v2** are merged into the **main** version.
 
 | Stage | Feature | Comments | Implementation status |
 |-------|---------|----------|---------------------|
